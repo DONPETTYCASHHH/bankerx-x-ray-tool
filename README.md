@@ -5,7 +5,7 @@ Interactive due-diligence tool for financial advisors, investment products, loan
 Powered by [BANKERX](https://www.bankerx.org/) & Perplexity.
 
 ## File
-- `bankerx-x-ray-tool.html` — single-file app, no build step required
+- `bankerx-x-ray-tool.html` — single-file app, no build steps required
 
 ## Deploy
 Drop into Cloudflare Pages or any static host. Set framework to **None**, build command **none**, output directory **`/`**.
